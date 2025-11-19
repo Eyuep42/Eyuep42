@@ -1,7 +1,6 @@
 # 👋 Hi, I'm a Fullstack Developer in Apprenticeship  
 
 🌱 Currently learning and building modern web applications with **Frontend** & **Backend** technologies.  
-💻 Passionate about clean code, scalable systems, and beautiful UI/UX.  
 
 ---
 
